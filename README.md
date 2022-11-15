@@ -17,12 +17,13 @@ You can click the Preview link to take a look at your changes.
   Hi there! I'm mao~ 23 years old student at <a href="https://www.haust.edu.cn/">Henan University of Science and Technology</a>
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
-
+<!--
 <a href="https://github.com/maolavecoding">
   <section align="right" >
     <img align="right" src="https://github.com/maolavecoding" alt="Lookeke" />
   </section>
 </a>
+-->
 
 - 😄 Read more about my [Blog](https://www.maolavecoding.github.io) (under construction)
 - 👯 Follow me on [掘金](https://juejin.cn/user/1223113398562110)
@@ -41,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 <!-------------https://simpleicons.org------------->
 <!-------------https://img.shields.io-------------->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lookeke&layout=compact&theme=buefy)](https://juejin.cn/user/2172290708810744/posts)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maolovecoding&layout=compact&theme=buefy)](https://juejin.cn/user/1223113398562110/posts)
 
 ## 👨‍💻Programming and markup languages
 
