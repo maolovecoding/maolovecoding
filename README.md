@@ -62,6 +62,7 @@ You can click the Preview link to take a look at your changes.
 
 ![React](https://custom-icon-badges.demolab.com/badge/-React-%2361DAFB?logo=React&logoColor=white)
 ![Vue](https://custom-icon-badges.demolab.com/badge/-Vue.js-%234FC08D?logo=Vue.js&logoColor=white)
+![Pinia](https://custom-icon-badges.demolab.com/badge/-Pinia-%234FC08D?logo=Pinia&logoColor=white)
 ![Next.js](https://custom-icon-badges.demolab.com/badge/-Next.js-%23000000?logo=Next.js&logoColor=white)
 
 ### Style Components & Style Frameworks & Style Preprocessor
