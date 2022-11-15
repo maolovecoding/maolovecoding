@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 - 😄 Read more about my [Blog](https://www.maolavecoding.github.io) (under construction)
 - 👯 Follow me on [掘金](https://juejin.cn/user/1223113398562110)
 - 🌱 I’m currently learning React & vue
+- 🌱 I will study Go in the future
 - 🔭 I’m currently working on xiaohongshu, this is student topic
 - 📫 How to reach me: 1339065735@qq.com
 
@@ -52,6 +53,7 @@ You can click the Preview link to take a look at your changes.
 ![TypeScript](https://custom-icon-badges.demolab.com/badge/-TypeScript-%233776AB?logo=TypeScript&logoColor=white)
 ![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-%23339933?logo=Node.js&logoColor=white)
 ![Java](https://custom-icon-badges.demolab.com/badge/-Java-%23339933?logo=Java&logoColor=white)
+![Go](https://custom-icon-badges.demolab.com/badge/-Go-%23339933?logo=Go&logoColor=white)
 ![Markdown](https://custom-icon-badges.demolab.com/badge/-Markdown-%23000000?logo=Markdown&logoColor=white)
 
 ## 🧰 Frameworks and libraries
