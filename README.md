@@ -86,7 +86,7 @@ You can click the Preview link to take a look at your changes.
 ![ReactRouter](https://custom-icon-badges.demolab.com/badge/-React%20Router-%23CA4245?logo=ReactRouter&logoColor=white)
 ![ReactQuery](https://custom-icon-badges.demolab.com/badge/-React%20Query-%23FF4154?logo=ReactQuery&logoColor=white)
 ![Redux](https://custom-icon-badges.demolab.com/badge/-Redux-%23764ABC?logo=Redux&logoColor=white)
-![Redux-Saga](https://custom-icon-badges.demolab.com/badge/-Redux-Saga-%23764ABC?logo=Redux-Saga&logoColor=white)
+![Redux-Saga](https://custom-icon-badges.demolab.com/badge/-ReduxSaga-%23764ABC?logo=Redux-Saga&logoColor=white)
 ![xState](https://custom-icon-badges.demolab.com/badge/-xState-%23764ABC?logo=xState&logoColor=white)
 ![CreateReactApp](https://custom-icon-badges.demolab.com/badge/-Create%20React%20App-%2309D3AC?logo=CreateReactApp&logoColor=white)
 ![Webpack](https://custom-icon-badges.demolab.com/badge/-Webpack-%238DD6F9?logo=Webpack&logoColor=white)
