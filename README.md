@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 
 ![React](https://custom-icon-badges.demolab.com/badge/-React-%2361DAFB?logo=React&logoColor=white)
 ![Vue](https://custom-icon-badges.demolab.com/badge/-Vue.js-%234FC08D?logo=Vue.js&logoColor=white)
-![Pinia](https://custom-icon-badges.demolab.com/badge/-Pinia-%234FC08D?logo=Pinia&logoColor=white)
+![Nuxt.js](https://custom-icon-badges.demolab.com/badge/-Nuxt.js-%23000000?logo=Nuxt.js&logoColor=white)
 ![Next.js](https://custom-icon-badges.demolab.com/badge/-Next.js-%23000000?logo=Next.js&logoColor=white)
 
 ### Style Components & Style Frameworks & Style Preprocessor
@@ -86,6 +86,8 @@ You can click the Preview link to take a look at your changes.
 ![ReactRouter](https://custom-icon-badges.demolab.com/badge/-React%20Router-%23CA4245?logo=ReactRouter&logoColor=white)
 ![ReactQuery](https://custom-icon-badges.demolab.com/badge/-React%20Query-%23FF4154?logo=ReactQuery&logoColor=white)
 ![Redux](https://custom-icon-badges.demolab.com/badge/-Redux-%23764ABC?logo=Redux&logoColor=white)
+![Redux-Saga](https://custom-icon-badges.demolab.com/badge/-Redux-Saga-%23764ABC?logo=Redux-Saga&logoColor=white)
+![xState](https://custom-icon-badges.demolab.com/badge/-xState-%23764ABC?logo=xState&logoColor=white)
 ![CreateReactApp](https://custom-icon-badges.demolab.com/badge/-Create%20React%20App-%2309D3AC?logo=CreateReactApp&logoColor=white)
 ![Webpack](https://custom-icon-badges.demolab.com/badge/-Webpack-%238DD6F9?logo=Webpack&logoColor=white)
 ![Rollup](https://custom-icon-badges.demolab.com/badge/-Rollup-%238DD6F9?logo=Rollup.js&logoColor=white)
