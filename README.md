@@ -45,6 +45,11 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maolovecoding&layout=compact&theme=buefy)](https://juejin.cn/user/1223113398562110/posts)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/maolovecoding/count.svg" />
+</p>
+
 ## 👨‍💻Programming and markup languages
 
 ![HTML5](https://custom-icon-badges.demolab.com/badge/-HTML5-%23E34F26?logo=HTML5&logoColor=white)
