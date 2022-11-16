@@ -88,11 +88,14 @@ You can click the Preview link to take a look at your changes.
 ![Redux](https://custom-icon-badges.demolab.com/badge/-Redux-%23764ABC?logo=Redux&logoColor=white)
 ![CreateReactApp](https://custom-icon-badges.demolab.com/badge/-Create%20React%20App-%2309D3AC?logo=CreateReactApp&logoColor=white)
 ![Webpack](https://custom-icon-badges.demolab.com/badge/-Webpack-%238DD6F9?logo=Webpack&logoColor=white)
+![Rollup](https://custom-icon-badges.demolab.com/badge/-Rollup-%238DD6F9?logo=Rollup&logoColor=white)
 ![Vite](https://custom-icon-badges.demolab.com/badge/-Vite-%23646CFF?logo=Vite&logoColor=white)
+![Vitest](https://custom-icon-badges.demolab.com/badge/-Vitest-%23646CFF?logo=Vitest&logoColor=white)
 ![Jest](https://custom-icon-badges.demolab.com/badge/-Jest-%23C21325?logo=Jest&logoColor=white)
 ![Mocha](https://custom-icon-badges.demolab.com/badge/-Mocha-%238D6748?logo=Mocha&logoColor=white)
 ![Chai](https://custom-icon-badges.demolab.com/badge/-Chai-%23A30701?logo=Chai&logoColor=white)
 ![RxJS](https://custom-icon-badges.demolab.com/badge/-ReactiveX-%23B7178C?logo=ReactiveX&logoColor=white)
+![Gin](https://custom-icon-badges.demolab.com/badge/-Gin-%23B7178C?logo=Gin&logoColor=white)
 ![WordPress](https://custom-icon-badges.demolab.com/badge/-WordPress-%2321759B?logo=WordPress&logoColor=white)
 
 ### Back-end technology stack
