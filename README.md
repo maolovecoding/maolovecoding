@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 -->
 
 - 😄 Read more about my [Blog](https://www.maolavecoding.github.io) (under construction)
-- 👯 Follow me on [掘金](https://juejin.cn/user/1223113398562110)
+- 👯 Follow me on [掘金](https://juejin.cn/user/1223113398562110) or [CSDN](https://blog.csdn.net/weixin_45747310?type=blog)
 - 🌱 I’m currently learning React & vue
 - 🌱 I will study Go in the future
 - 🔭 I’m currently working on xiaohongshu, this is student topic
