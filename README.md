@@ -42,9 +42,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-------------https://simpleicons.org------------->
 <!-------------https://img.shields.io-------------->
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maolovecoding&layout=compact&theme=buefy)](https://juejin.cn/user/1223113398562110/posts)
-
+</div>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/maolovecoding/count.svg" />
