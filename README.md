@@ -88,7 +88,7 @@ You can click the Preview link to take a look at your changes.
 ![Redux](https://custom-icon-badges.demolab.com/badge/-Redux-%23764ABC?logo=Redux&logoColor=white)
 ![CreateReactApp](https://custom-icon-badges.demolab.com/badge/-Create%20React%20App-%2309D3AC?logo=CreateReactApp&logoColor=white)
 ![Webpack](https://custom-icon-badges.demolab.com/badge/-Webpack-%238DD6F9?logo=Webpack&logoColor=white)
-![Rollup](https://custom-icon-badges.demolab.com/badge/-Rollup-%238DD6F9?logo=Rollup&logoColor=white)
+![Rollup](https://custom-icon-badges.demolab.com/badge/-Rollup-%238DD6F9?logo=Rollup.js&logoColor=white)
 ![Vite](https://custom-icon-badges.demolab.com/badge/-Vite-%23646CFF?logo=Vite&logoColor=white)
 ![Vitest](https://custom-icon-badges.demolab.com/badge/-Vitest-%23646CFF?logo=Vitest&logoColor=white)
 ![Jest](https://custom-icon-badges.demolab.com/badge/-Jest-%23C21325?logo=Jest&logoColor=white)
