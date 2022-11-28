@@ -158,7 +158,7 @@ You can click the Preview link to take a look at your changes.
 
 ![AdobeDreamweaver](https://custom-icon-badges.demolab.com/badge/-Adobe%20Dreamweaver-%23FF61F6?logo=AdobeDreamweaver&logoColor=white)
 ![VisualStudioCode](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-%23007ACC?logo=VisualStudioCode&logoColor=white)
-![stackblitz](https://custom-icon-badges.demolab.com/badge/-Sourcetree-%230052CC?logo=stackblitz&logoColor=white)
+![stackblitz](https://custom-icon-badges.demolab.com/badge/-Stackblitz-%230052CC?logo=stackblitz&logoColor=white)
 ![PyCharm](https://custom-icon-badges.demolab.com/badge/-PyCharm-%23000000?logo=PyCharm&logoColor=white)
 ![WebStorm](https://custom-icon-badges.demolab.com/badge/-WebStorm-%23000000?logo=WebStorm&logoColor=white)
 ![IntelliJIDEA](https://custom-icon-badges.demolab.com/badge/-IntelliJ%20IDEA-%23000000?logo=IntelliJIDEA&logoColor=white)
