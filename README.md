@@ -43,7 +43,11 @@ You can click the Preview link to take a look at your changes.
 <!-------------https://simpleicons.org------------->
 <!-------------https://img.shields.io-------------->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maolovecoding&layout=compact&theme=buefy)](https://juejin.cn/user/1223113398562110/posts)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maolovecoding&layout=compact&theme=buefy&langs_count=10)](https://juejin.cn/user/1223113398562110/posts)
+<!-------------
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsafight&layout=compact&langs_count=9&hide=Component+Pascal" />
+-------------->
+
 
 <p align="center"> 
   Visitor count<br>
