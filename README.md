@@ -107,6 +107,7 @@ You can click the Preview link to take a look at your changes.
 ![RxJS](https://custom-icon-badges.demolab.com/badge/-ReactiveX-%23B7178C?logo=ReactiveX&logoColor=white)
 ![Gin](https://custom-icon-badges.demolab.com/badge/-Gin-%23B7178C?logo=Gin&logoColor=white)
 ![WordPress](https://custom-icon-badges.demolab.com/badge/-WordPress-%2321759B?logo=WordPress&logoColor=white)
+![WordPress](https://custom-icon-badges.demolab.com/badge/-threejs-%2321759B?logo=threejs&logoColor=white)
 
 ### Back-end technology stack
 
