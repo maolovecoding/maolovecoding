@@ -54,7 +54,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/maolovecoding/count.svg" />
 </p>
 
-![maolovecoding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maolovecoding&layout=compact&theme=material-palenight)
 
 ## 👨‍💻Programming and markup languages
 
