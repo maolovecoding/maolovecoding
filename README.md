@@ -47,7 +47,13 @@ You can click the Preview link to take a look at your changes.
 <!-------------
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsafight&layout=compact&langs_count=9&hide=Component+Pascal" />
 -------------->
+---
 
+### :memo:Weekly Development ###
+
+![maolovecoding Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=maolovecoding&layout=compact&theme=radical)
+
+---
 
 <p align="center"> 
   Visitor count<br>
